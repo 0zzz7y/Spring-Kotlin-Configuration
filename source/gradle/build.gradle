@@ -18,7 +18,7 @@ kotlin {
 }
 
 plugins {
-    // TODO: Check your version!
+    // TODO: Check your versions!
     kotlin("jvm") version "1.9.25"
     kotlin("plugin.spring") version "1.9.25"
     kotlin("plugin.jpa") version "1.9.25"
