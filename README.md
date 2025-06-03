@@ -1,6 +1,6 @@
 # Spring Configuration
 
-A Spring configuration setup written in Kotlin, designed to streamline the initial stages of starting a project.
+A Spring configuration setup written in Kotlin, designed to streamline the initial stages of starting a new project.
 
 ### Gradle Configuration:
 
