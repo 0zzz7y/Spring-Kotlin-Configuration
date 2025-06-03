@@ -46,7 +46,6 @@ dependencies {
     implementation("org.hibernate.orm:hibernate-community-dialects:_")
 
     implementation("com.github.vladimir-bukhtoyarov:bucket4j-core:_")
-
 }
 
 allOpen {
