@@ -4,8 +4,8 @@ A Spring configuration setup written in Kotlin, designed to streamline the initi
 
 ### Gradle Configuration:
 
-- [`build.gradle`]()
-- [`settings.gradle.kt`]()
+- [`build.gradle`](https://github.com/0zzz7y/Spring-Kotlin-Configuration/blob/main/source/build.gradle)
+- [`settings.gradle.kt`](https://github.com/0zzz7y/Spring-Kotlin-Configuration/blob/main/source/settings.gradle.kt)
 
 ### Spring Configuration:
 
